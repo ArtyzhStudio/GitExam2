@@ -6,3 +6,4 @@
 ### COMMIT 2
 #### COMMIT 3
 >>>>>>> second
+##### COMMIT 4

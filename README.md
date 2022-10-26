@@ -8,3 +8,5 @@
 >>>>>>> second
 ##### COMMIT 4
 ###### COMMIT 5
+###### COMMIT 6
+###### COMMIT 7
